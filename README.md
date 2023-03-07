@@ -2,7 +2,7 @@
 Simple desc: A reaction time test. Click your mouse anywhere on the screen when the window turns green similar to Human Benchmark, it will 
 show the time delay in miliseconds after you clicked 😊 I Recommend playing some music in the background.
 
-![rttpmng](https://user-images.githubusercontent.com/11061707/223545147-c8ad8abb-7f08-43f3-a9e1-b126335776f3.png)
+![reactiontimetest](https://user-images.githubusercontent.com/11061707/223547248-85f8f230-f27b-4c80-97e2-b9f821d074bc.png)
 
 Detailed description: The time in ms is rounded to 10, for example if your response time is 151ms, it will get rounded to 160ms
                       Press F1 if you wan't to exit the app
