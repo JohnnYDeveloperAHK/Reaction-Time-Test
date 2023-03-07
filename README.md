@@ -7,7 +7,7 @@ Detailed description: The time in ms is rounded to 10, for example if your respo
                       There is an X on the top right so you may quit the program that way too.
                       This is used as a warmup before you play any game that needs quick reactions.
                       Average reaction time is about 200ms, but that's with people that play on 60hz and on the browser that is affected by DWM's latency.
-                      So it's probably averaged more so at the 170-180ms and not 200ms.
+                      So it's probably averaged more so at the 180-190ms and not 200ms.
                       
                       Virus total https://www.virustotal.com/gui/file/74071a1dcb5f727c701f69c7a7cc65ab316d22c87ba6f0aef4a454ad51c56cbe/detection
                       
